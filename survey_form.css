@@ -1,0 +1,27 @@
+.card{
+   margin-top:2%;
+   width:50%;
+   /* background-color:whitesmoke !important;   */
+}
+label{
+    margin-left:1.7%;
+    /* font-weight:lighter; */
+}
+.checked{
+    color: Orange;
+}
+.icon{
+    margin-top:-25px;
+    letter-spacing:2px;
+    font-size:20px;
+}
+table:even(n){
+  background-color:black;
+}
+thead,td{
+    text-align:center;
+}
+.btn{
+    padding:2%;
+    color:rgb(173, 52, 52);
+}
